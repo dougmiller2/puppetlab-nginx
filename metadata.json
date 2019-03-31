@@ -1,0 +1,15 @@
+{
+  "name": "dougmiller2-nginx",
+  "version": "0.1.0",
+  "author": "dougmiller2",
+  "summary": "This is my nginx module for the lab.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/dougmiller2/puppetlab-nginx.git",
+  "project_page": "https://github.com/dougmiller2/puppetlab-nginx",
+  "issues_url": "https://github.com/dougmiller2/puppetlab-nginx/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
